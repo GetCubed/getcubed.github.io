@@ -1,2 +1,2 @@
 # getcubed.github.io
-for cube minded coders
+a blog for cube minded coders
