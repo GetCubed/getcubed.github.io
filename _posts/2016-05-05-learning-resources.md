@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: 'Learning Resources'
+author: 'Rhodri Mativo'
 categories: resources
-tags: [documentation,sample]
+tags: [documentation, sample]
 image: arctic-4.jpg
 ---
 
